@@ -1,7 +1,11 @@
 # ESN_MIMO_Symbol_Detection
 Before Running, please install the python ESN package from https://github.com/cknd/pyESN
 
-For more information, please refer to 
+If you in any way use this code for research that results in publications, please cite our paper as described below:
 
-S. Mosleh, L. Liu, C. Sahin, Y. R. Zheng and Y. Yi, "Brain-Inspired Wireless Communications: Where Reservoir Computing Meets MIMO-OFDM," in IEEE Transactions on Neural Networks and Learning Systems.
+S. Mosleh, L. Liu, C. Sahin, Y. Zheng, and Y. Yi, " Brain-Inspired Wireless Communications: Where Reservoir Computing Meets MIMO-OFDM", IEEE Transaction on Neural Networks and Learning Systems, Dec. 2017, DOI: 10.1109/TNNLS.2017.2766162
+
+
+
+
 
